@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Antonio Dromundo</h1>
-<h3 align="center">A passionate frontend developer from Mexico city</h3>
+<h3 align="center">A passionate Frontend Developer from Mexico city</h3>
+
+![banner_mee](https://user-images.githubusercontent.com/72485462/125398350-d1c51e00-e374-11eb-8329-1e9e88ad26ad.gif)
+
 
 - 🌱 I’m currently learning at **Plazi Master Program**
 
